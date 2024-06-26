@@ -210,7 +210,7 @@
 |오픈소스<br>리스트<br>명칭과 URL|React(https://ko.legacy.reactjs.org/)<br>TypeScript(https://www.typescriptlang.org/)<br>Spring Boot(https://spring.io/projects/spring-boot)|
 |AI<br>알고리듬,<br>모듈 등<br>리스트|CLOVA Sentiment : 텍스트에서 감정 식별 및 분석<br>GPT-4 : 각 피드백 종합 및 분석을 통한 솔루션 생성|
 |Team<br>Ground<br>Rule|[Click to visit](https://github.com/HA-MYUN-HAM/.github/blob/main/GROUND_RULE.md)|
-|최종수정일|2024-4-18|
+|최종수정일|2024-6-26|
 
   [Return Top](#전체-프로젝트-리스트)
 ## Team 11
